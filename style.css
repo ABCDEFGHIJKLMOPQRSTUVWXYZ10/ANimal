@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.header{
+    background-color: lime;
+    font-family: fantasy;
+}
+.button1{
+    font-family: fantasy;
+    margin-top: 10px;
+    font-weight: 10px;
+    letter-spacing: 2px;
+}
